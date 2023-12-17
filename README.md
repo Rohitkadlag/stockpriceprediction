@@ -1,0 +1,2 @@
+# stockpriceprediction
+stockpriceprediction using ffnn
